@@ -1,4 +1,4 @@
-# %СЮДА_ВСТАВИТЬ_ВАШ_САБДОМЕН/api/marketplace%
+# re-dmok/api/marketplace%
 
 # Лабораторная: Деплой API
 
